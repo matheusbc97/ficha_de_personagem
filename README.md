@@ -4,4 +4,4 @@ A character rpg sheet manager and generator
 
 ## Getting Started
 
-This project is project to learn more of flutter development
+This project is made for me to learn more of flutter development
